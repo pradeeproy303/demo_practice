@@ -1,4 +1,5 @@
 from addition import add
+from multiplication import mul
 
 if __name__ == "__main__":
     x=input("Enter a integer")
@@ -6,3 +7,6 @@ if __name__ == "__main__":
 
     res_add = add(x,y)
     print(f"The result of addition is: {res_add}")
+
+    res_mul = mul(x,y)
+    print(f"The result of addition is: {res_mul}")
