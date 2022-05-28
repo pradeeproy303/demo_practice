@@ -9,4 +9,4 @@ if __name__ == "__main__":
     print(f"The result of addition is: {res_add}")
 
     res_mul = mul(x,y)
-    print(f"The result of addition is: {res_mul}")
+    print(f"The result of multiplication is: {res_mul}")
